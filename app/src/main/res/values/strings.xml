@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">bankline</string>
+    <string name="txt_hello_word">Hello World!</string>
+</resources>
